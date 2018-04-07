@@ -139,3 +139,39 @@ $(document).mouseup(function (e) {
 	}
 });
 // открыть по таймеру
+$('.js-close-campaign').click(function(){
+	$('.js-overlay-campaign1').fadeOut();
+
+});
+$('.js-close-campaign').click(function(){
+	$('.js-overlay-campaign2').fadeOut();
+
+});
+$('.js-close-campaign').click(function(){
+	$('.js-overlay-campaign3').fadeOut();
+
+});
+$('.js-close-campaign').click(function(){
+	$('.js-overlay-campaign4').fadeOut();
+
+});
+$('.js-close-campaign').click(function(){
+	$('.js-overlay-campaign5').fadeOut();
+
+});
+$('.js-close-campaign').click(function(){
+	$('.js-overlay-campaign6').fadeOut();
+
+});
+$('.js-close-campaign').click(function(){
+	$('.js-overlay-campaign7').fadeOut();
+
+});
+$('.js-close-campaign').click(function(){
+	$('.js-overlay-campaign8').fadeOut();
+
+});
+$('.js-close-campaign').click(function(){
+	$('.js-overlay-campaign9').fadeOut();
+
+});
