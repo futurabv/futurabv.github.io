@@ -1,6 +1,8 @@
 .gb{
   margin: 0;
   padding: 0;
+width: 100%;
+height:150%;
   background-color: #c8c3c3;
 }
 
@@ -75,18 +77,20 @@ padding: 0;
 border: 2px solid white;
 }
 .overlay{
-
+background-color: rgba(0, 0, 0, 0.5);
 position: absolute;
-width: 100%;
-min-height: 100%;
+
 top: 0;
 left: 0;
-
   display: none;
+}
+body .overlay{
+  width: 100%;
+  height: 2100px;
 }
  .popup{
   max-width:50%;
-  height: 100%;
+  
   background-color: #323140;
   margin: auto;
 position: relative;
