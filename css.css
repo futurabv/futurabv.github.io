@@ -115,7 +115,7 @@ position: absolute;
 height: 3px;
 width: 31px;
 top:13px;
-left: -2px;
+left: -1px;
 transform: rotate(-45deg);
 }
 .close-popup:after{
@@ -126,7 +126,7 @@ height: 3px;
 width: 31px;
 top:13px;
 transform: rotate(45deg);
-left: -2px;
+left: -1px;
 }
 .info{
   width: 100%;
